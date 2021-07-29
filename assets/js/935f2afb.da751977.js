@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_learning_space=self.webpackChunkmy_learning_space||[]).push([[53],{9054:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":"none","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Hi!","href":"/docs/intro"}]}}')}}]);
